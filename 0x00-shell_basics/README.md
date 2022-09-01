@@ -1,1 +1,1 @@
-A magic file school.mgc that can be used with command
+A script that moves all files beginning with an uppercase letter to the directory /tmp/u
