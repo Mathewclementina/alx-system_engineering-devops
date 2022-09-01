@@ -1,1 +1,1 @@
-A command that list all the files and directories of the current directories
+A magic file school.mgc that can be used with command file to delete data file
