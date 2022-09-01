@@ -1,1 +1,1 @@
-A script that deletes all files in the current working directory that ends with character ~
+A script that creates the directories in the current directory
