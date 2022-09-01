@@ -1,1 +1,1 @@
-A symbolic link
+A magic file school.mgc that can be used with command
