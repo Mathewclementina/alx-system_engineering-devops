@@ -1,1 +1,1 @@
-Asymbolic link
+A symbolic link
