@@ -1,1 +1,1 @@
-A script that creates a directory name my_first_directory in the/tmp/ directory
+Ascript that copies all the HTML files from the current wirking directory to the parent of the working directory
