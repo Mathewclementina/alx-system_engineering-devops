@@ -1,1 +1,1 @@
-A script rhat print frile
+A script that list all files
