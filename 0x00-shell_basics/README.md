@@ -1,1 +1,1 @@
-Delete directory
+Bye to my first directory
