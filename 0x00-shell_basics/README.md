@@ -1,1 +1,1 @@
-A script that copies all the HTML files from the current working directory to the parent of the working directory
+A script that changes the working directory to the user home directory
