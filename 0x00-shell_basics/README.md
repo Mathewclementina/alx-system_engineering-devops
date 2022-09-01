@@ -1,1 +1,1 @@
-A script that lists all files
+A symbolic link
