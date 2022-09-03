@@ -1,3 +1,0 @@
-#!/bin/bash
-chown --from=guilaumebeety
-hello
