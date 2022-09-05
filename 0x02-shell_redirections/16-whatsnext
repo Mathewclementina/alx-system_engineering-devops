@@ -1,2 +1,2 @@
 #!/bin/bash
-grep  .a 3 root 16-whatsnext
+grep -a 3 root 16-whatsnext
